@@ -176,25 +176,28 @@ main {
         letter-spacing: .3rem;
         padding-left: 2rem ;
     }
+    .main-content {
+        top: 6rem;
+    }
     .main-content h5{
         font-size: 2rem;;
     
     }
     .main-content h1{
-        font-size: 4rem;
+        font-size: 3.5rem;
     }
     .main-content p{
         font-size: 1rem;
     }
 }
-@media screen and (max-width: 430px){
+@media screen and (max-width: 320px){
     .navbar{
         letter-spacing: .05rem;
         padding: 3px 0;
     }
     .main-content {
         position: absolute;
-        top: 80px;
+        top: 8rem;
         width: 100%;
         max-width: 100%;
     }
