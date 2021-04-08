@@ -236,9 +236,5 @@ main {
         font-size: 3.2rem;
     }
 }
-@media screen and (max-width: 28.75em) {
-    .contact-section-header > h2 {
-      font-size: 4rem;
-    }
-  }
+
   
