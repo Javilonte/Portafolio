@@ -71,6 +71,11 @@ main {
     font-family: 'Recursive', sans-serif;
     letter-spacing: 1rem;
 }
+
+.card  img{
+    height:25rem;
+    
+ }
 /* -----------About -------------------*/
 
 #about h2{
